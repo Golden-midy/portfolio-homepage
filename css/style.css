@@ -30,7 +30,7 @@ h2{
 p {
   font-weight: normal;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 30px;
 }
 
 .hero {
@@ -61,13 +61,13 @@ p {
   line-height: 27px;
   padding: 15px 30px;
 }
-.btn-btn-branding{
-color: var(--branding-color);
-border: 1px solid ;
-border-radius: 4px;
-font-size: 18px;
-line-height: 27px;
-padding: 15px 30px;
+.btn-branding-outline{
+ color: var(--branding-color);
+  border: 1px solid var(--branding-color);
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
 }
 .project-description{
   padding: 120px 60px;
