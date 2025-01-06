@@ -33,7 +33,7 @@ p {
   line-height: 30px;
 }
 .content-container{
-  padding:160px 20px;
+  padding:60px 20px;
 }
 .content-container h2{
   font-size: 44px;
@@ -78,7 +78,7 @@ nav li.active a{
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .hero p {
